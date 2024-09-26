@@ -13,7 +13,7 @@ setup(
     description="Pacote para estudo de conceitos de criação de pacotes",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link",
+    url="",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.5',
